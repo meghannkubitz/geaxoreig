@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihohvaih.zepedro.com/sitemap.xml
